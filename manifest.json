@@ -278,16 +278,16 @@
    "url": "https://github.com/felixzufa-design/qdshkaLaunch/releases/download/V1.4/tracks-neoforge-1.21.1-1.0.1.jar"
   },
   {
-   "path": "mods/qdguard-1.0.9.jar",
-   "size": 16565,
-   "sha256": "446366d30787563156b68c6a991293e9b4cf602769eb91bbf17765197821405c",
-   "url": "https://github.com/felixzufa-design/qdshkaLaunch/releases/download/V1.4/qdguard-1.0.9.jar"
-  },
-  {
    "path": "mods/qdskins-1.0.18.jar",
    "size": 17317,
    "sha256": "ac75b872038b4d7460ea15a91e91b1e0f6077bf8dfe2b8865f4412de71209d9b",
    "url": "https://github.com/felixzufa-design/qdshkaLaunch/releases/download/V1.4/qdskins-1.0.18.jar"
+  },
+  {
+   "path": "mods/qdguard-1.0.10.jar",
+   "size": 16582,
+   "sha256": "e918a8bfeaba1d2c475e47b6714adc78180ec6cb48a59f691b715592afc87ef6",
+   "url": "https://github.com/felixzufa-design/qdshkaLaunch/releases/download/V1.4/qdguard-1.0.10.jar"
   }
  ]
 }
