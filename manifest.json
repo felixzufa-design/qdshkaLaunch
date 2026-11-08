@@ -1,5 +1,5 @@
 {
- "packVersion": "V1.4",
+ "packVersion": "1.5",
  "minecraft": "1.21.1",
  "loader": {
   "type": "neoforge",
@@ -11,283 +11,283 @@
    "path": "mods/almanac-neoforge-1.21.1-1.26.10.3.jar",
    "size": 402267,
    "sha256": "53367bb59e890bb11975cb9e630996c9c9373b6fe139328da7547c0eca365e22",
-   "url": "https://github.com/felixzufa-design/qdshkaLaunch/releases/download/V1.4/almanac-neoforge-1.21.1-1.26.10.3.jar"
+   "url": "https://github.com/felixzufa-design/qdshkaLaunch/releases/download/v1.5/almanac-neoforge-1.21.1-1.26.10.3.jar"
   },
   {
    "path": "mods/appleskin-neoforge-mc1.21-3.0.9.jar",
    "size": 75804,
    "sha256": "38b48dd6231341c9f964ce6e42c57ec866c6cc8f72bec938390a59bafb3922df",
-   "url": "https://github.com/felixzufa-design/qdshkaLaunch/releases/download/V1.4/appleskin-neoforge-mc1.21-3.0.9.jar"
+   "url": "https://github.com/felixzufa-design/qdshkaLaunch/releases/download/v1.5/appleskin-neoforge-mc1.21-3.0.9.jar"
   },
   {
    "path": "mods/betsyross-3.1.2+mc.1.21.1-neoforge.jar",
    "size": 198763,
    "sha256": "c8259f139b36b8b19dbafd1195f26618b3a89e849d638eb8fa78841547613d9f",
-   "url": "https://github.com/felixzufa-design/qdshkaLaunch/releases/download/V1.4/betsyross-3.1.2%2Bmc.1.21.1-neoforge.jar"
+   "url": "https://github.com/felixzufa-design/qdshkaLaunch/releases/download/v1.5/betsyross-3.1.2+mc.1.21.1-neoforge.jar"
   },
   {
    "path": "mods/bobby_reneoforged-5.2.4-0.4+mc1.21.jar",
    "size": 1199051,
    "sha256": "0e8738cf8355fe3b9211595c5427b0248a55edc13b83dcc9c5e689c3bd0752ee",
-   "url": "https://github.com/felixzufa-design/qdshkaLaunch/releases/download/V1.4/bobby_reneoforged-5.2.4-0.4%2Bmc1.21.jar"
+   "url": "https://github.com/felixzufa-design/qdshkaLaunch/releases/download/v1.5/bobby_reneoforged-5.2.4-0.4+mc1.21.jar"
   },
   {
    "path": "mods/BrenReforged-1.21.1-neoforge-0.3-Fixed204-lang.jar",
    "size": 715654,
    "sha256": "e64239f9a2ae980cd54b64ecb69fa8ac1902e7c7695f7076f0245f911e2eb9e7",
-   "url": "https://github.com/felixzufa-design/qdshkaLaunch/releases/download/V1.4/BrenReforged-1.21.1-neoforge-0.3-Fixed204-lang.jar"
+   "url": "https://github.com/felixzufa-design/qdshkaLaunch/releases/download/v1.5/BrenReforged-1.21.1-neoforge-0.3-Fixed204-lang.jar"
   },
   {
    "path": "mods/cloth-config-15.0.140-neoforge.jar",
    "size": 1163890,
    "sha256": "65e722e0d98431a07c45f8bdd8d529a217cc8c175fde1740248bd5c1b4f3c0d4",
-   "url": "https://github.com/felixzufa-design/qdshkaLaunch/releases/download/V1.4/cloth-config-15.0.140-neoforge.jar"
+   "url": "https://github.com/felixzufa-design/qdshkaLaunch/releases/download/v1.5/cloth-config-15.0.140-neoforge.jar"
   },
   {
    "path": "mods/copycats-3.0.9+mc.1.21.1-neoforge.jar",
    "size": 1799381,
    "sha256": "d1efdd8688af6603dff9425299ac4547ef56a7d5cfee757716ead7853276694e",
-   "url": "https://github.com/felixzufa-design/qdshkaLaunch/releases/download/V1.4/copycats-3.0.9%2Bmc.1.21.1-neoforge.jar"
+   "url": "https://github.com/felixzufa-design/qdshkaLaunch/releases/download/v1.5/copycats-3.0.9+mc.1.21.1-neoforge.jar"
   },
   {
    "path": "mods/create-1.21.1-6.0.10.jar",
    "size": 19123767,
    "sha256": "ef87fe5709f1ba1f5b8bb20a2925b5afb4669e178fd6d8bf10c167759eefe37a",
-   "url": "https://github.com/felixzufa-design/qdshkaLaunch/releases/download/V1.4/create-1.21.1-6.0.10.jar"
+   "url": "https://github.com/felixzufa-design/qdshkaLaunch/releases/download/v1.5/create-1.21.1-6.0.10.jar"
   },
   {
    "path": "mods/create-aeronautics-bundled-1.21.1-1.3.2.jar",
    "size": 33123131,
    "sha256": "a3f330d4757640f8715d991a43eedb826e4d0e51558d859c843ae6693bd35f1e",
-   "url": "https://github.com/felixzufa-design/qdshkaLaunch/releases/download/V1.4/create-aeronautics-bundled-1.21.1-1.3.2.jar"
+   "url": "https://github.com/felixzufa-design/qdshkaLaunch/releases/download/v1.5/create-aeronautics-bundled-1.21.1-1.3.2.jar"
   },
   {
    "path": "mods/create-zinc-recipe-1.20.1-1.1-Neoforge.jar",
    "size": 16127,
    "sha256": "4b796d7b56454dae7f5860fc53495f870186a73efbd1188c94b54cd54a4ea35f",
-   "url": "https://github.com/felixzufa-design/qdshkaLaunch/releases/download/V1.4/create-zinc-recipe-1.20.1-1.1-Neoforge.jar"
+   "url": "https://github.com/felixzufa-design/qdshkaLaunch/releases/download/v1.5/create-zinc-recipe-1.20.1-1.1-Neoforge.jar"
   },
   {
    "path": "mods/createaddition-1.6.0.jar",
    "size": 1661802,
    "sha256": "41876c3780b70365a1848994d146a73423cc19fbe86485885795d9e7d855e7e9",
-   "url": "https://github.com/felixzufa-design/qdshkaLaunch/releases/download/V1.4/createaddition-1.6.0.jar"
+   "url": "https://github.com/felixzufa-design/qdshkaLaunch/releases/download/v1.5/createaddition-1.6.0.jar"
   },
   {
    "path": "mods/createbigcannons-5.11.7+mc.1.21.1.jar",
    "size": 3771506,
    "sha256": "ea017ab94637032d039899d88404838d173fa0e6286657cae6a6c3af459e87ca",
-   "url": "https://github.com/felixzufa-design/qdshkaLaunch/releases/download/V1.4/createbigcannons-5.11.7%2Bmc.1.21.1.jar"
+   "url": "https://github.com/felixzufa-design/qdshkaLaunch/releases/download/v1.5/createbigcannons-5.11.7+mc.1.21.1.jar"
   },
   {
    "path": "mods/createdeco-2.1.3.jar",
    "size": 3328498,
    "sha256": "edacf1ad0bd6b9f1667d711650dc0cde604356d91caca7ca1ec428c2f9400c6e",
-   "url": "https://github.com/felixzufa-design/qdshkaLaunch/releases/download/V1.4/createdeco-2.1.3.jar"
+   "url": "https://github.com/felixzufa-design/qdshkaLaunch/releases/download/v1.5/createdeco-2.1.3.jar"
   },
   {
    "path": "mods/createdieselgenerators-1.21.1-1.3.15.jar",
    "size": 3154746,
    "sha256": "56ef1d574278fc311f1ffa223dbd613077b899354a18d01ae8dca2578a4e2990",
-   "url": "https://github.com/felixzufa-design/qdshkaLaunch/releases/download/V1.4/createdieselgenerators-1.21.1-1.3.15.jar"
+   "url": "https://github.com/felixzufa-design/qdshkaLaunch/releases/download/v1.5/createdieselgenerators-1.21.1-1.3.15.jar"
   },
   {
    "path": "mods/createpropulsion-1.1.5.jar",
    "size": 1707765,
    "sha256": "5525a3a0c8b1c476cbc467d021e9d1492b58c78de31ed269eb04f169d42db0a1",
-   "url": "https://github.com/felixzufa-design/qdshkaLaunch/releases/download/V1.4/createpropulsion-1.1.5.jar"
+   "url": "https://github.com/felixzufa-design/qdshkaLaunch/releases/download/v1.5/createpropulsion-1.1.5.jar"
   },
   {
    "path": "mods/create_connected-1.3.3-mc1.21.1.jar",
    "size": 6786784,
    "sha256": "89d2404d2d5bc696b1813e39b9d1616a41888f74a648771152b0b0323a490265",
-   "url": "https://github.com/felixzufa-design/qdshkaLaunch/releases/download/V1.4/create_connected-1.3.3-mc1.21.1.jar"
+   "url": "https://github.com/felixzufa-design/qdshkaLaunch/releases/download/v1.5/create_connected-1.3.3-mc1.21.1.jar"
   },
   {
    "path": "mods/create_jetpack-forge-5.2.1.jar",
    "size": 495109,
    "sha256": "cf99c1c4943230c6b1d88527da72c3a9db908d76bcaf4e3fefe345ac8a3c9081",
-   "url": "https://github.com/felixzufa-design/qdshkaLaunch/releases/download/V1.4/create_jetpack-forge-5.2.1.jar"
+   "url": "https://github.com/felixzufa-design/qdshkaLaunch/releases/download/v1.5/create_jetpack-forge-5.2.1.jar"
   },
   {
    "path": "mods/create_radar-5.0-1.21.1.jar",
    "size": 5663481,
    "sha256": "2ad39683d8da0db1687caa0f0d5b5c7aae6e26e4468331d7449a8b3c32697a80",
-   "url": "https://github.com/felixzufa-design/qdshkaLaunch/releases/download/V1.4/create_radar-5.0-1.21.1.jar"
+   "url": "https://github.com/felixzufa-design/qdshkaLaunch/releases/download/v1.5/create_radar-5.0-1.21.1.jar"
   },
   {
    "path": "mods/curios-neoforge-9.5.1+1.21.1.jar",
    "size": 410690,
    "sha256": "a45df2125c26219974aba7507ffc9afe7b83acc941a386af3faacb1cc0056fde",
-   "url": "https://github.com/felixzufa-design/qdshkaLaunch/releases/download/V1.4/curios-neoforge-9.5.1%2B1.21.1.jar"
+   "url": "https://github.com/felixzufa-design/qdshkaLaunch/releases/download/v1.5/curios-neoforge-9.5.1+1.21.1.jar"
   },
   {
    "path": "mods/deployer-0.1.3.jar",
    "size": 2022337,
    "sha256": "e82db4c817e15d818b56c6393695232092264919256819c5f0a66c6260376380",
-   "url": "https://github.com/felixzufa-design/qdshkaLaunch/releases/download/V1.4/deployer-0.1.3.jar"
+   "url": "https://github.com/felixzufa-design/qdshkaLaunch/releases/download/v1.5/deployer-0.1.3.jar"
   },
   {
    "path": "mods/entityculling-neoforge-1.11.3-mc1.21.1.jar",
    "size": 1510075,
    "sha256": "fa73ac70a3766568203b730a1573b4b54d88fb48dff4a33d8c4a80be9b8d17d5",
-   "url": "https://github.com/felixzufa-design/qdshkaLaunch/releases/download/V1.4/entityculling-neoforge-1.11.3-mc1.21.1.jar"
+   "url": "https://github.com/felixzufa-design/qdshkaLaunch/releases/download/v1.5/entityculling-neoforge-1.11.3-mc1.21.1.jar"
   },
   {
    "path": "mods/etched-5.1.0.jar",
    "size": 628299,
    "sha256": "be4fa9704e3621acd55e738d7dd4d9bb229c13d4b82482044f8c3cba58e1f516",
-   "url": "https://github.com/felixzufa-design/qdshkaLaunch/releases/download/V1.4/etched-5.1.0.jar"
+   "url": "https://github.com/felixzufa-design/qdshkaLaunch/releases/download/v1.5/etched-5.1.0.jar"
   },
   {
    "path": "mods/FarmersDelight-1.21.1-1.3.4.jar",
    "size": 3160490,
    "sha256": "139ad7696462c89c03eea463f805abffa552526c5dadaadae221dd9624cb197c",
-   "url": "https://github.com/felixzufa-design/qdshkaLaunch/releases/download/V1.4/FarmersDelight-1.21.1-1.3.4.jar"
+   "url": "https://github.com/felixzufa-design/qdshkaLaunch/releases/download/v1.5/FarmersDelight-1.21.1-1.3.4.jar"
   },
   {
    "path": "mods/ferritecore-7.0.3-neoforge.jar",
    "size": 121559,
    "sha256": "d87ea28262715ebff45b8a82d493e6b468e7a4521bc021df5d88302196d030a8",
-   "url": "https://github.com/felixzufa-design/qdshkaLaunch/releases/download/V1.4/ferritecore-7.0.3-neoforge.jar"
+   "url": "https://github.com/felixzufa-design/qdshkaLaunch/releases/download/v1.5/ferritecore-7.0.3-neoforge.jar"
   },
   {
    "path": "mods/fusion-1.3.16-neoforge-mc1.21.1.jar",
    "size": 947335,
    "sha256": "29920a6838f4f942947d208349480d7f5737f9fac6411c6eac5f3e824a438048",
-   "url": "https://github.com/felixzufa-design/qdshkaLaunch/releases/download/V1.4/fusion-1.3.16-neoforge-mc1.21.1.jar"
+   "url": "https://github.com/felixzufa-design/qdshkaLaunch/releases/download/v1.5/fusion-1.3.16-neoforge-mc1.21.1.jar"
   },
   {
    "path": "mods/fzzy_config-0.7.7+1.21+neoforge.jar",
    "size": 2392693,
    "sha256": "26af871cacd134ce52610384bbdd362a018707444eb2d498e4833063f378cf85",
-   "url": "https://github.com/felixzufa-design/qdshkaLaunch/releases/download/V1.4/fzzy_config-0.7.7%2B1.21%2Bneoforge.jar"
+   "url": "https://github.com/felixzufa-design/qdshkaLaunch/releases/download/v1.5/fzzy_config-0.7.7+1.21+neoforge.jar"
   },
   {
    "path": "mods/geckolib-neoforge-1.21.1-4.9.3.jar",
    "size": 634531,
    "sha256": "20a1995e4074f387ff549e2c57ea79dd7d41ee83c6afb9dd6a6e840e592d1c47",
-   "url": "https://github.com/felixzufa-design/qdshkaLaunch/releases/download/V1.4/geckolib-neoforge-1.21.1-4.9.3.jar"
+   "url": "https://github.com/felixzufa-design/qdshkaLaunch/releases/download/v1.5/geckolib-neoforge-1.21.1-4.9.3.jar"
   },
   {
    "path": "mods/gravestone-neoforge-1.21.1-1.0.40.jar",
    "size": 322082,
    "sha256": "204be9ccb8632a56a87aee9aab4c7874d0f6749f566c07f5dd420d24e24dc8b0",
-   "url": "https://github.com/felixzufa-design/qdshkaLaunch/releases/download/V1.4/gravestone-neoforge-1.21.1-1.0.40.jar"
+   "url": "https://github.com/felixzufa-design/qdshkaLaunch/releases/download/v1.5/gravestone-neoforge-1.21.1-1.0.40.jar"
   },
   {
    "path": "mods/immersive_paintings-neoforge-1.21.1-0.8.0.jar",
    "size": 5548915,
    "sha256": "baf3ecd72d45baebd8f19b82a3b78363190d3b7bd9505cb6d59628ef7e49e4c9",
-   "url": "https://github.com/felixzufa-design/qdshkaLaunch/releases/download/V1.4/immersive_paintings-neoforge-1.21.1-0.8.0.jar"
+   "url": "https://github.com/felixzufa-design/qdshkaLaunch/releases/download/v1.5/immersive_paintings-neoforge-1.21.1-0.8.0.jar"
   },
   {
    "path": "mods/iris-neoforge-1.8.14-beta.1+mc1.21.1.jar",
    "size": 2540723,
    "sha256": "60d5f8bf52f25e9986440f4a4270a6bd986d9cff994510e1108ac1547063b314",
-   "url": "https://github.com/felixzufa-design/qdshkaLaunch/releases/download/V1.4/iris-neoforge-1.8.14-beta.1%2Bmc1.21.1.jar"
+   "url": "https://github.com/felixzufa-design/qdshkaLaunch/releases/download/v1.5/iris-neoforge-1.8.14-beta.1+mc1.21.1.jar"
   },
   {
    "path": "mods/jei-1.21.1-neoforge-19.64.0.455.jar",
    "size": 2375741,
    "sha256": "f7a9de3d7ee07eed8d293a1a1a0f6afaac556eb43c103523457bd07ebb551e7b",
-   "url": "https://github.com/felixzufa-design/qdshkaLaunch/releases/download/V1.4/jei-1.21.1-neoforge-19.64.0.455.jar"
+   "url": "https://github.com/felixzufa-design/qdshkaLaunch/releases/download/v1.5/jei-1.21.1-neoforge-19.64.0.455.jar"
   },
   {
    "path": "mods/kotlinforforge-5.12.0-all.jar",
    "size": 7279276,
    "sha256": "095aed94f21b4e55895b21ea957750ae3ab829fbcfc6d3c66a3489f5f1128d46",
-   "url": "https://github.com/felixzufa-design/qdshkaLaunch/releases/download/V1.4/kotlinforforge-5.12.0-all.jar"
+   "url": "https://github.com/felixzufa-design/qdshkaLaunch/releases/download/v1.5/kotlinforforge-5.12.0-all.jar"
   },
   {
    "path": "mods/letmedespawn-neoforge-1.21.1-1.26.10.2.jar",
    "size": 29583,
    "sha256": "62086f1e0dc89bb2d784fb75bf2fea37925a6cc1c24b9b3e3d686f2901183e17",
-   "url": "https://github.com/felixzufa-design/qdshkaLaunch/releases/download/V1.4/letmedespawn-neoforge-1.21.1-1.26.10.2.jar"
+   "url": "https://github.com/felixzufa-design/qdshkaLaunch/releases/download/v1.5/letmedespawn-neoforge-1.21.1-1.26.10.2.jar"
   },
   {
    "path": "mods/lithium-neoforge-0.15.4+mc1.21.1.jar",
    "size": 774220,
    "sha256": "488f33216030c1cb0baa33e59de3d657d08d5795a6c2080c8c8bbbc133fc8757",
-   "url": "https://github.com/felixzufa-design/qdshkaLaunch/releases/download/V1.4/lithium-neoforge-0.15.4%2Bmc1.21.1.jar"
+   "url": "https://github.com/felixzufa-design/qdshkaLaunch/releases/download/v1.5/lithium-neoforge-0.15.4+mc1.21.1.jar"
   },
   {
    "path": "mods/mezz_config-1.21.1-neoforge-0.6.8-standalone.jar",
    "size": 327173,
    "sha256": "182ad8ad757175b49d573512c8fac624ee526e8138e24b36f677b0f6466e20cb",
-   "url": "https://github.com/felixzufa-design/qdshkaLaunch/releases/download/V1.4/mezz_config-1.21.1-neoforge-0.6.8-standalone.jar"
+   "url": "https://github.com/felixzufa-design/qdshkaLaunch/releases/download/v1.5/mezz_config-1.21.1-neoforge-0.6.8-standalone.jar"
   },
   {
    "path": "mods/Mod.Menu.NeoForge.Edition.1.21.1-1.0.2.jar",
    "size": 933248,
    "sha256": "254adf32afefc94a26505a79b66a64907bf07eb6e2a5890b9dd52a913fa53130",
-   "url": "https://github.com/felixzufa-design/qdshkaLaunch/releases/download/V1.4/Mod.Menu.NeoForge.Edition.1.21.1-1.0.2.jar"
+   "url": "https://github.com/felixzufa-design/qdshkaLaunch/releases/download/v1.5/Mod.Menu.NeoForge.Edition.1.21.1-1.0.2.jar"
   },
   {
    "path": "mods/railways-0.2.1+neoforge-mc1.21.1.jar",
    "size": 12118736,
    "sha256": "b7636c8b1b0352ed1a130dfe67f8bb574e2fc08803ed1cda4d3ea00505193914",
-   "url": "https://github.com/felixzufa-design/qdshkaLaunch/releases/download/V1.4/railways-0.2.1%2Bneoforge-mc1.21.1.jar"
+   "url": "https://github.com/felixzufa-design/qdshkaLaunch/releases/download/v1.5/railways-0.2.1+neoforge-mc1.21.1.jar"
   },
   {
    "path": "mods/ritchiesprojectilelib-2.1.2-mc.1.21.1-neoforge.jar",
    "size": 76369,
    "sha256": "cc509060833736fb650aa4c36b1ce33a7eeeb9ca6e9f8e80a7c951c9e7487b24",
-   "url": "https://github.com/felixzufa-design/qdshkaLaunch/releases/download/V1.4/ritchiesprojectilelib-2.1.2-mc.1.21.1-neoforge.jar"
+   "url": "https://github.com/felixzufa-design/qdshkaLaunch/releases/download/v1.5/ritchiesprojectilelib-2.1.2-mc.1.21.1-neoforge.jar"
   },
   {
    "path": "mods/ronova-neoforge-1.12.3-mc1.21.1.jar",
    "size": 53256571,
    "sha256": "666b5889c62bbccf1bbbcc30c4861d1482ff996b53d0c215e815c65795116a27",
-   "url": "https://github.com/felixzufa-design/qdshkaLaunch/releases/download/V1.4/ronova-neoforge-1.12.3-mc1.21.1.jar"
+   "url": "https://github.com/felixzufa-design/qdshkaLaunch/releases/download/v1.5/ronova-neoforge-1.12.3-mc1.21.1.jar"
   },
   {
    "path": "mods/sable-neoforge-1.21.1-2.0.6.jar",
    "size": 12986135,
    "sha256": "9c199157843bf953a47dff625fc5bb41c01a90538d35ad18e6996bbcb8a617c2",
-   "url": "https://github.com/felixzufa-design/qdshkaLaunch/releases/download/V1.4/sable-neoforge-1.21.1-2.0.6.jar"
+   "url": "https://github.com/felixzufa-design/qdshkaLaunch/releases/download/v1.5/sable-neoforge-1.21.1-2.0.6.jar"
   },
   {
    "path": "mods/skinlayers3d-neoforge-1.11.4-mc1.21.1.jar",
    "size": 1905514,
    "sha256": "0b6594418245efbe4ae2cf7fde133878d56a4c41eff06e231ba7e1a233e0b615",
-   "url": "https://github.com/felixzufa-design/qdshkaLaunch/releases/download/V1.4/skinlayers3d-neoforge-1.11.4-mc1.21.1.jar"
+   "url": "https://github.com/felixzufa-design/qdshkaLaunch/releases/download/v1.5/skinlayers3d-neoforge-1.11.4-mc1.21.1.jar"
   },
   {
    "path": "mods/sodium-neoforge-0.8.13+mc1.21.1.jar",
    "size": 1292934,
    "sha256": "575d187b15328d7bddd8a9b1bee64333c22c14735f5780ec49eac0cd5503c08d",
-   "url": "https://github.com/felixzufa-design/qdshkaLaunch/releases/download/V1.4/sodium-neoforge-0.8.13%2Bmc1.21.1.jar"
+   "url": "https://github.com/felixzufa-design/qdshkaLaunch/releases/download/v1.5/sodium-neoforge-0.8.13+mc1.21.1.jar"
   },
   {
    "path": "mods/supermartijn642configlib-1.1.8-neoforge-mc1.21.jar",
    "size": 207514,
    "sha256": "d2ba7b839a2268e4e223457e813d11aa2476c3bf708a7bba691d8fc851778a4b",
-   "url": "https://github.com/felixzufa-design/qdshkaLaunch/releases/download/V1.4/supermartijn642configlib-1.1.8-neoforge-mc1.21.jar"
+   "url": "https://github.com/felixzufa-design/qdshkaLaunch/releases/download/v1.5/supermartijn642configlib-1.1.8-neoforge-mc1.21.jar"
   },
   {
    "path": "mods/supermartijn642corelib-1.1.25-neoforge-mc1.21.jar",
    "size": 562683,
    "sha256": "0824bdd7cd5b5654eeb05dc9b62b42003b081b781009c38dc83ee1e106ca4ce2",
-   "url": "https://github.com/felixzufa-design/qdshkaLaunch/releases/download/V1.4/supermartijn642corelib-1.1.25-neoforge-mc1.21.jar"
+   "url": "https://github.com/felixzufa-design/qdshkaLaunch/releases/download/v1.5/supermartijn642corelib-1.1.25-neoforge-mc1.21.jar"
   },
   {
    "path": "mods/tracks-neoforge-1.21.1-1.0.1.jar",
    "size": 166455,
    "sha256": "b126b2522a129c13ebec6491b8602726bad9a3df201cf906468ba583796125c8",
-   "url": "https://github.com/felixzufa-design/qdshkaLaunch/releases/download/V1.4/tracks-neoforge-1.21.1-1.0.1.jar"
+   "url": "https://github.com/felixzufa-design/qdshkaLaunch/releases/download/v1.5/tracks-neoforge-1.21.1-1.0.1.jar"
   },
   {
    "path": "mods/qdskins-1.0.18.jar",
    "size": 17317,
    "sha256": "ac75b872038b4d7460ea15a91e91b1e0f6077bf8dfe2b8865f4412de71209d9b",
-   "url": "https://github.com/felixzufa-design/qdshkaLaunch/releases/download/V1.4/qdskins-1.0.18.jar"
+   "url": "https://github.com/felixzufa-design/qdshkaLaunch/releases/download/v1.5/qdskins-1.0.18.jar"
   },
   {
    "path": "mods/qdguard-1.0.10.jar",
    "size": 16582,
    "sha256": "e918a8bfeaba1d2c475e47b6714adc78180ec6cb48a59f691b715592afc87ef6",
-   "url": "https://github.com/felixzufa-design/qdshkaLaunch/releases/download/V1.4/qdguard-1.0.10.jar"
+   "url": "https://github.com/felixzufa-design/qdshkaLaunch/releases/download/v1.5/qdguard-1.0.10.jar"
   }
  ]
 }
